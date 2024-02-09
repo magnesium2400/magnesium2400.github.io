@@ -1,14 +1,27 @@
 remote_theme: just-the-docs/just-the-docs
-title: Mehul's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Mehul Gajwani
 
 url: https://magensium2400.github.io/
+
+aux_links:
+  "My repositories":
+    - "https://github.com/magnesium2400?tab=repositories"
 
 # External navigation links
 nav_external_links:
   - title: nihelp
     url: https://magnesium2400.github.io/nihelp
-    hide_icon: false # set to true to hide the external link icon - defaults to false
-    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+    hide_icon: false
+    opens_in_new_tab: true
 
+  - title: matlab2github
+    url: https://magnesium2400.github.io/matlab2github
+    hide_icon: false
+    opens_in_new_tab: true
     
+  - title: m2md
+    url: https://magnesium2400.github.io/m2md
+    hide_icon: false
+    opens_in_new_tab: true
+    
+   
