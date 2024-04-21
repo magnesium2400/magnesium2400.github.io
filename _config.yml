@@ -12,16 +12,16 @@ nav_external_links:
   - title: nihelp
     url: https://magnesium2400.github.io/nihelp
     hide_icon: false
-    opens_in_new_tab: true
+    opens_in_new_tab: false
 
   - title: matlab2github
     url: https://magnesium2400.github.io/matlab2github
     hide_icon: false
-    opens_in_new_tab: true
+    opens_in_new_tab: false
     
-  - title: m2md
-    url: https://magnesium2400.github.io/m2md
+  - title: hashFiles
+    url: https://magnesium2400.github.io/hashFiles
     hide_icon: false
-    opens_in_new_tab: true
+    opens_in_new_tab: false
     
    

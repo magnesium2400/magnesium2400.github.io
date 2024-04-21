@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Page Creation
+nav_order: 100
 ---
 
 # Creating a Simple GitHub Pages Site (2024-01)
