@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: default
+nav_order: 0
 ---
 
 # A collection of my projects
@@ -15,17 +16,20 @@ layout: default
 
 
 # MATLAB Projects 
-## `nihelp`: An assortment of (neuroimaging) functions 
+## `nihelp`
+*An assortment of (neuroimaging) functions*
 - [Homepage](https://magnesium2400.github.io/nihelp/)
 - [Code](https://github.com/magnesium2400/nihelp)
 
 
-## `matlab2github`: easily convert your docstrings to (GitHub Flavored) Markdown 
+## `matlab2github`
+*Easily convert your docstrings to (GitHub Flavored) Markdown*
 - [Homepage](https://magnesium2400.github.io/matlab2github/)
 - [Code](https://github.com/magnesium2400/matlab2github)
 
 
-## `hashFiles`: track your codebase whenever you run your code 
+## `hashFiles`
+*Track your codebase whenever you run your code*
 - [Homepage](https://magnesium2400.github.io/hashFiles/)
 - [Code](https://github.com/magnesium2400/hashFiles)
 

@@ -11,8 +11,8 @@ nav_order: 10
 - [Code](https://github.com/NSBLab/DegreeVariability)
 
 
- ## Aims
- In this project, we sought to compare the effects of different choices at key steps in the dMRI pipeline on properties of hub connectivity in a normative cohort of 294 healthy young adults. We evaluated the effects of each of these choices on measures of binary and weighted node degree, given that these measures are fundamental to many other network measures and to the definition of network hubs (Oldham et al., 2019). In particular, we focussed on both the distribution of degree measures across nodes and their spatial topography, evaluating the consistency with which hubs are localized to the same anatomical positions.
+## Aims
+In this project, we sought to compare the effects of different choices at key steps in the dMRI pipeline on properties of hub connectivity in a normative cohort of 294 healthy young adults. We evaluated the effects of each of these choices on measures of binary and weighted node degree, given that these measures are fundamental to many other network measures and to the definition of network hubs (Oldham et al., 2019). In particular, we focussed on both the distribution of degree measures across nodes and their spatial topography, evaluating the consistency with which hubs are localized to the same anatomical positions.
 
 ## Materials and Methods
 We evaluated effects of four factors in individual connectome reconstruction (paper Figure 1). Three pertain to the tractography workflow (probabilistic versus deterministic algorithm, propagation constraints, streamline seeding; a total of 10 options for comparison) and the last pertains to parcellation (4 options). Then, as group-representative connectomes are commonly used in the literature, we also considered how the aforementioned factors interact with different group-aggregation methods (4 options) and thresholds (11 options). The different options examined at each step resulted in 1760 different group-representative connectomes. 
