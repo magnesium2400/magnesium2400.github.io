@@ -6,7 +6,7 @@ nav_order: 90
 
 # Predicting Functional Connectivity from Geometric Eigenmodes
 *A project predicting individual FC from geometric eigenmodes, and comparing this to existing SC models*
-
+You can see the poster about this work [here](blob/eigenmode-fc_coupling.pdf).
 
 ## Introduction
 Prior work to date has generally used geometric eigenmodes to linearly reconstruct a phenotype of brain organisation (e.g., resting-state FC and task-based fMRI in (Pang et al., 2023) and cortical thickness in (Cao et al., 2023)). Here the target of the reconstruction y is estimated by least squares fit of n geometric eigenmodes `y=\Sigma_{i=1}^n \Beta_i \Psi_i`. Using spatial correlation with FC as a measure of reconstruction accuracy, Pang and colleagues (2023) found a reconstruction accuracy of around 0.8 when using 100 modes, and around 0.9 using 200 modes. Moreover, the reconstruction accuracy of geometric eigenmodes substantially exceeded that of connectome eigenmodes. 
