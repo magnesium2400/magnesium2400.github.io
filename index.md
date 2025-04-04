@@ -8,6 +8,8 @@ nav_order: 0
 *Do geometric modes continue to outperform connectome modes when using more accurate tract-tracing data?*
 - [Homepage](https://magnesium2400.github.io/mouse_eigenmodes.html)
 
+![](images/mouse-eigenmodes/Picture1.png)
+
 
 # Diffusion MRI Pipeline Variability
 *A project looking at the consistency of hub locations across different diffusion MRI processing pipelines*
@@ -16,10 +18,13 @@ nav_order: 0
 - [Data](https://bridges.monash.edu/collections/Degree_Variability/6352886/1)
 - [Code](https://github.com/NSBLab/DegreeVariability)
 
+![](images/pipeline-variability.svg)
 
 # Predicting Functional Connectivity from Geometric Eigenmodes
 *A project predicting individual FC from geometric eigenmodes, and comparing this to existing SC models*
 - [Homepage](https://magnesium2400.github.io/eigenmode-fc_coupling.html)
+
+![](images/eigenmode-fc_coupling/Picture3.png)
 
 
 # MATLAB Projects 
