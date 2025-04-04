@@ -6,7 +6,7 @@ nav_order: 70
 
 # Geometric and Connectomic Constraints on Mouse Brain Function and Organisation (WIP)
 *Do geometric modes continue to outperform connectome modes when using more accurate tract-tracing data?*
-
+You can see the poster about this work [here](blob/mouse-eigenmodes.pdf).
 
 ## Aims
 Here, we aim to clarify whether the detrimental effects of adding connectivity information to eigenmode models are due to noisiness or variability in human diffusion imaging data. We will do this by comparing two eigenmode models in mice: one utilising solely geometric information (i.e. derived from mouse isocortical geometry), and one also incorporating connectivity information (derived from tract-tracing experiments). The primary aim will be to compare the accuracy of each model in reconstructing resting-state functional connectivity. If the geometric model outperforms the connectivity-informed model, this further supports the hypothesis that geometric constraints represent fundamental, cross-species constraint on brain function. Alternatively, if the connectivity-informed model outperforms the geometric model, this suggests that there is something unique to humans – or data acquired from humans – constraining brain function to geometry. 
