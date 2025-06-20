@@ -24,4 +24,8 @@ nav_external_links:
     hide_icon: false
     opens_in_new_tab: false
     
-   
+  - title: My Résumé
+    url: https://github.com/magnesium2400/magnesium2400.github.io/blob/main/blob/eigenmode-fc_coupling.pdf
+    hide_icon: false
+    opens_in_new_tab: true
+    
