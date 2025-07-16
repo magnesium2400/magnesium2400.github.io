@@ -20,7 +20,8 @@ nav_order: 100
 2. Add in this line: `remote_theme: just-the-docs/just-the-docs`, as well as any other data you want to add (see the [just-the-docs] documentation for more details).
 
 ## 3. Add your pages as `.md` files
-- You can add information in YAML frontmatter e.g. `layout`, `name`, or `permalink`. 
+- You can add information in YAML frontmatter e.g. `layout`, `name`, or `permalink`.
+- You might want to add a page called `index.md` with the YAML: `layout: default`, `title: Home`, `permalink: /`, `nav_order: 1`
 
 
 [just-the-docs]: https://just-the-docs.com/
